@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: async-client
+
+
+app:
+  api:
+    base-url: https://jsonplaceholder.typicode.com
